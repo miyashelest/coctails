@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoctailDB</string>
+    <string name="filters">Filters</string>
+    <string name="drinks">Drinks</string>
+    <string name="Apply">apply</string>
+    <string name="check_icon">check icon</string>
+</resources>
